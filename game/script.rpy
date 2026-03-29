@@ -20,8 +20,8 @@ default stat_1 = 0
 default stat_2 = 0 
 
 label stat_check: 
-    $ stat_1 = max(0, min(stat_1, 100))
-    $ stat_2 = max(0, min(stat_2, 100))           # Cap for core stats
+    $ stat_1 = round(max(0, min(stat_1, 100)), 1)
+    $ stat_2 = round(max(0, min(stat_2, 100)), 1)         # Cap for core stats
 return 
 
 # Relationship flags
