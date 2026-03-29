@@ -11,6 +11,6 @@ This is a cozy visual novel centered around the art of connection. It’s more t
 - **A Personal Debut**: As the first official release from CuteSense Studios, this game is a passion project built with heart and a focus on storytelling.
 Note from the Developer
 
-`"This is my very first game! It’s a labor of love, and while there may be a few 'hiccups' along the way, I’ve poured my creativity into making this a memorable experience. To help bring my vision to life as a solo dev, I’ve utilized AI assets for image generation, select audio, and text refinement. I hope you enjoy your stay at the cafe!"`
+> "This is my very first game! It’s a labor of love, and while there may be a few 'hiccups' along the way, I’ve poured my creativity into making this a memorable experience. To help bring my vision to life as a solo dev, I’ve utilized AI assets for image generation, select audio, and text refinement. I hope you enjoy your stay at the cafe!"
 
 **Content Warning**: All characters in the main narrative are 18 years of age or older. This game contains a sequences depicting a character at age 15 for narrative/psychological purposes.
