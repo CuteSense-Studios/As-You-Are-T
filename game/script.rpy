@@ -30,6 +30,13 @@ default flag_b = 0
 default flag_c = 0 
 default flag_d = 0 
 
+# Flag checks for relationships
+label flag_check: 
+  $ flag_a = round(max(0, min(flag_a, 80)), 1)
+  $ flag_b = round(max(0, min(flag_b, 80)), 1)
+  $ flag_c = round(max(0, min(flag_c, 80)), 1) 
+  $ flag d = round(max(0, min(flag_d, 80)), 1)
+return
 # Reusable Single Assets
 image bg_1 = "images/placeholder_bg.png"
 image char_1_idle = "images/placeholder_sprite.png"
