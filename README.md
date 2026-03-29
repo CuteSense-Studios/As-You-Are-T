@@ -49,7 +49,8 @@ To view or run this template code:
 
 ## 📝 Developer’s Note
 > "This is my very first game! It’s a labor of love, and while there may be a few 'hiccups' along the way, I’ve poured my creativity into making this a memorable experience. To help bring my vision to life as a solo dev, I’ve utilized AI assets for image generation, select audio, and text refinement. I hope you enjoy your stay at the cafe!"
-> — **Crossie**
+> 
+>  — **Crossie**
 
 ---
 
