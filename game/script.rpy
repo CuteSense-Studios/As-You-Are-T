@@ -6,18 +6,6 @@ label splashscreen:
     with fade
 return
 
-# Declare generic characters used by this template.
-define c1 = Character("Character A", color="#004a00")
-
-
-# Reusable Single Assets
-image bg_1 = "images/placeholder_bg.png"
-image char_1_idle = "images/placeholder_sprite.png"
-
-# Audio Definitions
-define sfx_1 = "audio/placeholder_sfx.ogg"
-define music_1 = "audio/placeholder_music.ogg"
-
 # ---------------------------------------------------------- (Prologue) --------------------------------------------------------------- #
 
 label start:
