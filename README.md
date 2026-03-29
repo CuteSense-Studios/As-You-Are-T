@@ -1,16 +1,51 @@
-# As-You-Are-T
+# As You Are | Project Repository
 
-Welcome to *As You Are*, a place where every cup tells a story and every bond is brewed to perfection. It’s been a long journey to get here, but your new job at this cafe is exactly where you’re meant to be. Manage unique flavors, build lasting relationships with customers like Yuna and Dalvana, and find your place in the cafe's daily symphony. Step inside—your shift is about to begin
+Welcome to the official repository for **As You Are**, a cozy visual novel by **CuteSense Studios**. 
 
-This is a cozy visual novel centered around the art of connection. It’s more than just serving drinks; it’s about the people who drink them. Whether you’re perfecting a signature flavor profile or navigating the personal stories of regulars like Yuna and Dalvana, your choices help define the heart of the cafe. 
+> [!CAUTION]
+> **Technical Status**: This repository contains **outdated template code** and serves as a technical reference for the game’s structure. It does not represent the final, polished release of the narrative or assets.
 
-**Key Features**:
-- **Deep Character Bonding**: Get to know a diverse cast of customers and influence your relationships through meaningful dialogue.
-- **Cafe Management**: Balance the "symphony" of the cafe by managing flavors and atmosphere.
-- **Immersive Atmosphere**: Experience a world brought to life with curated AI-assisted visuals and soundscapes.
-- **A Personal Debut**: As the first official release from CuteSense Studios, this game is a passion project built with heart and a focus on storytelling.
-Note from the Developer
+---
 
+## ☕ About the Game
+*As You Are* is a place where every cup tells a story and every bond is brewed to perfection. Manage unique flavors, build lasting relationships with customers like **Yuna** and **Dalvana**, and find your place in the cafe's daily symphony. 
+
+Whether you’re perfecting a signature flavor profile or navigating the personal stories of regulars, your choices help define the heart of the cafe.
+
+### **Key Features**
+* **Deep Character Bonding**: Influence relationships through meaningful dialogue.
+* **Cafe Management**: Balance the "symphony" of the cafe by managing flavors and atmosphere.
+* **Immersive Atmosphere**: Curated AI-assisted visuals and soundscapes.
+* **A Personal Debut**: The first official release from CuteSense Studios, built with a focus on storytelling.
+
+---
+## 🛠️ Technical Details
+This repository is built using the **Ren'Py Visual Novel Engine**. 
+
+* **Structure**: Standard Ren'Py project directory.
+* **Code State**: Outdated/Template. 
+* **Purpose**: This repo is maintained for version history and technical scaffolding.
+
+### **Setup (For Development Reference)**
+To view or run this template code:
+1. Download the [Ren'Py Launcher](https://www.renpy.org/).
+2. Clone this repository into your Ren'Py projects directory.
+3. Open the project via the Launcher to browse the scripts (`.rpy` files).
+
+---
+
+## 📝 Developer’s Note
 > "This is my very first game! It’s a labor of love, and while there may be a few 'hiccups' along the way, I’ve poured my creativity into making this a memorable experience. To help bring my vision to life as a solo dev, I’ve utilized AI assets for image generation, select audio, and text refinement. I hope you enjoy your stay at the cafe!"
+> — *Crossie*
 
-**Content Warning**: All characters in the main narrative are 18 years of age or older. This game contains a sequences depicting a character at age 15 for narrative/psychological purposes.
+---
+
+## ⚠️ Content Warning
+All characters in the main narrative are **18 years of age or older**. This game contains sequences depicting a character at **age 15** for narrative/psychological purposes.
+
+---
+
+## ⚖️ License & Credits
+* **Engine**: [Ren'Py](https://www.renpy.org/)
+* **Studio**: CuteSense Studios
+* **Assets**: Developed with AI-assisted tools for visuals and audio.
