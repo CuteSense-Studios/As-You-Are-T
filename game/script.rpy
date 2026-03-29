@@ -8,12 +8,6 @@ return
 
 # Declare generic characters used by this template.
 define c1 = Character("Character A", color="#004a00")
- 
-# Helpful transform for zooming in on the character's face. 
-transform zoom_face:
-    zoom 0.7
-    yalign 0.3
-    xalign 0.5
 
 
 # Reusable Single Assets
