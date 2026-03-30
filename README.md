@@ -19,6 +19,13 @@ Whether you’re perfecting a signature flavor profile or navigating the persona
 * **Cafe Management**: Balance the "symphony" of the cafe by managing flavors and atmosphere.
 * **Immersive Atmosphere**: Curated AI-assisted visuals and soundscapes.
 * **A Personal Debut**: The first official release from CuteSense Studios, built with a focus on storytelling.
+  
+### **Screenshots:**
+
+<img width="794" height="446" alt="qYs2JC" src="https://github.com/user-attachments/assets/22238fd2-4e84-49b6-8fee-a2b0db6db152" />
+<img width="794" height="446" alt="xjcrmR" src="https://github.com/user-attachments/assets/fa2c55d3-f6b2-4966-a244-50abdaca8a1b" />
+<img width="794" height="446" alt="p9c3B5" src="https://github.com/user-attachments/assets/3f0eeecf-81fc-4e0e-9832-08d6541830ec" />
+<img width="794" height="446" alt="ICV_V8" src="https://github.com/user-attachments/assets/c5d4e5c9-8c9c-4d13-81a8-5bec5daa7c01" />
 
 ---
 
