@@ -32,7 +32,7 @@ Whether you’re perfecting a signature flavor profile or navigating the persona
 ## 📥 Download
 > [!NOTE]
 > **Coming Soon!**
-> Official builds for Windows, macOS, and Linux are currently in development. Please check back later for the first playable release.
+> Official build for Windows is currently in development. Please check back later for the first playable release.
 
 ---
 
