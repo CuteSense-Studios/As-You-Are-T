@@ -72,3 +72,5 @@ All characters in the main narrative are **18 years of age or older**. This game
 * **Engine**: [Ren'Py](https://www.renpy.org/)
 * **Studio**: CuteSense Studios
 * **Assets**: Developed with AI-assisted tools for visuals and audio.
+---
+ *This README was created with the help of Gemini.*
