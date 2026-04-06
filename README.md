@@ -63,11 +63,6 @@ To view or run this template code:
 
 ---
 
-## ⚠️ Content Warning
-All characters in the main narrative are **18 years of age or older**. This game contains sequences depicting a character at **age 15** for narrative/psychological purposes.
-
----
-
 ## ⚖️ License & Credits
 * **Engine**: [Ren'Py](https://www.renpy.org/)
 * **Studio**: CuteSense Studios
