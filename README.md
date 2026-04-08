@@ -92,6 +92,7 @@ To maintain a consistent aesthetic as a solo developer, the following tools were
 ### ✍️ Narrative & Text
 
 * **Story & Writing** : Original narrative by **Crossie**.
+*  *Note: This work was co-authored by human imagination and artificial intelligence.*
 * **Dialogue Refinement** : Narrative pacing and dialogue polished with assistance from  **Gemini 3 Flash** .
 
   ---
