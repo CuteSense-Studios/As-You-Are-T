@@ -96,6 +96,10 @@ To maintain a consistent aesthetic as a solo developer, the following tools were
 *  *Note: This work was co-authored by human imagination and artificial intelligence.*
 * **Dialogue Refinement** : Narrative pacing and dialogue polished with assistance from  **Gemini 3 Flash** .
 
+### 🤖 Technical Stack & AI Integration
+Several game assets and core components were developed using a hybrid AI workflow:
+* **Cursor AI**: Utilized in Auto Mode for rapid code generation and asset management.
+* **Claude 3.5 Sonnet (Thinking)**: Leveraged within the Google Project IDX (or Antigravity) environment for advanced logic and architectural design.
   ---
 
   *Created with Gemini, Human-Verified*
