@@ -32,19 +32,15 @@ Local screenshots are supported in this repository. The project already contains
 <div align="center">
   <figure style="display:inline-block; margin:8px; text-align:center;">
     <img src="images/screenshot1.png" alt="Main menu" width="380" />
-    <figcaption>Main menu</figcaption>
   </figure>
   <figure style="display:inline-block; margin:8px; text-align:center;">
     <img src="images/screenshot2.png" alt="In-game scene" width="380" />
-    <figcaption>In-game scene</figcaption>
   </figure>
   <figure style="display:inline-block; margin:8px; text-align:center;">
     <img src="images/screenshot3.png" alt="Character close-up" width="380" />
-    <figcaption>Character close-up</figcaption>
   </figure>
   <figure style="display:inline-block; margin:8px; text-align:center;">
     <img src="images/screenshot4.png" alt="Pause/menu overlay" width="380" />
-    <figcaption>Pause/menu overlay</figcaption>
   </figure>
 </div>
 
