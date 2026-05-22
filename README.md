@@ -23,20 +23,37 @@ Whether you’re perfecting a signature flavor profile or navigating the persona
 * **Immersive Atmosphere**: Curated AI-assisted visuals and soundscapes.
 * **A Personal Debut**: The first official release from CuteSense Studios, built with a focus on storytelling.
 
-### **Screenshots:**
+### **Screenshots**
 
-<img width="794" height="446" alt="qYs2JC" src="https://github.com/user-attachments/assets/22238fd2-4e84-49b6-8fee-a2b0db6db152" />
-<img width="794" height="446" alt="xjcrmR" src="https://github.com/user-attachments/assets/fa2c55d3-f6b2-4966-a244-50abdaca8a1b" />
-<img width="794" height="446" alt="p9c3B5" src="https://github.com/user-attachments/assets/3f0eeecf-81fc-4e0e-9832-08d6541830ec" />
-<img width="794" height="446" alt="ICV_V8" src="https://github.com/user-attachments/assets/c5d4e5c9-8c9c-4d13-81a8-5bec5daa7c01" />
+Local screenshots are supported in this repository. The project already contains example screenshots; they are displayed below.
 
+- Place images in the `images/` folder (this repo uses `images/` at the project root).
+- Reference them with relative paths in Markdown. Example:
+
+  ![Main Menu](images/screenshot1.png)
+
+- Commit the image files so they appear on GitHub and in PRs.
+
+Screenshots from the `images/` folder:
+
+![Screenshot 1](images/screenshot1.png)
+![Screenshot 2](images/screenshot2.png)
+
+![Screenshot 3](images/screenshot3.png)
+![Screenshot 4](images/screenshot4.png)
+
+If you prefer to keep remote-hosted images, older external embeds will still work.
 ---
 
 ## 📥 Download
 
 > [!NOTE]
-> **Coming Soon!**
-> Official build for Windows is currently in development. Please check back later for the first playable release.
+> Stable builds for **Windows** and **Linux** are available for download from the project's Releases page.
+>
+> - **Windows**: look for the asset named like `AsYouAre-win.zip` (or an installer `AsYouAre-installer.exe`).
+> - **Linux**: look for the asset named like `AsYouAre-linux.tar.bz2`.
+>
+> Visit the Releases page to download the latest build and any provided checksums or install instructions.
 
 ---
 
