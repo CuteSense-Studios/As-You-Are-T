@@ -27,35 +27,27 @@ Whether you’re perfecting a signature flavor profile or navigating the persona
 
 Local screenshots are supported in this repository. The project already contains example screenshots; they are displayed below.
 
-- Place images in the `images/` folder (this repo uses `images/` at the project root).
-- Reference them with relative paths in Markdown. Example:
+### **Screenshots Showcase**
 
-  ![Main Menu](images/screenshot1.png)
+<div align="center">
+  <figure style="display:inline-block; margin:8px; text-align:center;">
+    <img src="images/screenshot1.png" alt="Main menu" width="380" />
+    <figcaption>Main menu</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:8px; text-align:center;">
+    <img src="images/screenshot2.png" alt="In-game scene" width="380" />
+    <figcaption>In-game scene</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:8px; text-align:center;">
+    <img src="images/screenshot3.png" alt="Character close-up" width="380" />
+    <figcaption>Character close-up</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:8px; text-align:center;">
+    <img src="images/screenshot4.png" alt="Pause/menu overlay" width="380" />
+    <figcaption>Pause/menu overlay</figcaption>
+  </figure>
+</div>
 
-- Commit the image files so they appear on GitHub and in PRs.
-
-Screenshots from the `images/` folder:
-
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
-
-![Screenshot 3](images/screenshot3.png)
-![Screenshot 4](images/screenshot4.png)
-
-If you prefer to keep remote-hosted images, older external embeds will still work.
----
-
-## 📥 Download
-
-> [!NOTE]
-> Stable builds for **Windows** and **Linux** are available for download from the project's Releases page.
->
-> - **Windows**: look for the asset named like `AsYouAre-win.zip` (or an installer `AsYouAre-installer.exe`).
-> - **Linux**: look for the asset named like `AsYouAre-linux.tar.bz2`.
->
-> Visit the Releases page to download the latest build and any provided checksums or install instructions.
-
----
 
 ## 🚀 Releases
 
