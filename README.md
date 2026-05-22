@@ -1,6 +1,6 @@
 # As You Are | Project Repository
 
-<img width="1920" height="1080" alt="Store Banner" src="https://github.com/user-attachments/assets/c8afa501-7bba-49fe-9f38-b08ae7ae4bb0" />
+<img width="1920" height="1080" alt="Store Banner" src="images/banner.png" />
 
 
 Welcome to the official repository for **As You Are**, a cozy visual novel by **CuteSense Studios**.
